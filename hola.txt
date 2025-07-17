@@ -1,1 +1,5 @@
+<<<<<<< HEAD
 Se modifica desde rama main
+=======
+Desde la rama feature-login
+>>>>>>> feature-login
